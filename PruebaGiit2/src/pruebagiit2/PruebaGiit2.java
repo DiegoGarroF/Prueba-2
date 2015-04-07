@@ -10,7 +10,11 @@ package pruebagiit2;
  * @author Diego
  */
 public class PruebaGiit2 {
-
+    
+    public PruebaGiit2()
+    {
+        
+    }
     /**
      * @param args the command line arguments
      */
