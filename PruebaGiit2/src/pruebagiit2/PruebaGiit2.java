@@ -16,7 +16,10 @@ public class PruebaGiit2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.printl("<3 ");
+        System.out.println("<3 ");
+        // este es mi cambio
+        System.out.println(" :-* ");
+        // Diego Castro
     }
     
 }
